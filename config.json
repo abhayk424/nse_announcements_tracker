@@ -1,0 +1,17 @@
+{
+  "watchlist": [
+    "TCS",
+    "INFY",
+    "RELIANCE",
+    "HDFCBANK",
+    "ICICIBANK",
+    "TMCV",
+    "TMPV",
+    "LT",
+    "BEL"
+  ],
+  "fetch_watchlist_only": true,
+  "poll_interval_seconds": 60,
+  "database_path": "nse_announcements.db",
+  "baseline_on_first_run": true
+}
